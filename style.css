@@ -1,0 +1,37 @@
+body {
+  background-color: antiquewhite;
+  font-family: monospace;
+  font-size: 16px;
+  text-shadow: #FCO 1px 0 10px;
+  filter: brightness(103%);
+  filter: sepia(25.5%);
+  filter: grayscale(25%);
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: lightblue;
+  border-width: 7px;
+  width: 18%;
+}
+h1 {
+  color: midnightblue;
+}
+h3 {
+  color: midnightblue;
+}
+img {
+  background-color: red;
+}
+h4 {
+  font-size: 18px;
+}
+h3 {
+  font-size: 19px;
+}
+table {
+  border-color: midnightblue;
+  box-shadow: 7px 4px 4px grey;
+  table-layout: auto;
+}
